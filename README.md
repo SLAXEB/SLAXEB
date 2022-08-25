@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SLAXEB
-- 👀 I’m interested in Pyhthon for automation
+- 👀 I’m interested in Python for automation
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on any good project
 - 📫 How to reach me here
